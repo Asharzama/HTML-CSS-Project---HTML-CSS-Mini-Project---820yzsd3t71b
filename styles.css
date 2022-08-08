@@ -128,11 +128,11 @@ h1,h4,h5{
 }
 
 
-.contact{
+#contact{
     padding: 70px 0;
     background-color: black;
     color: whitesmoke;
 }
-.contact img{
+#contact img{
     padding: 5px;
 }
